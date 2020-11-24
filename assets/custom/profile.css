@@ -3,7 +3,7 @@
   /* Defining each sectino background and styles
   * --------------------------------------- */
   #section0{
-    background-image: url(/assets/img/big/mike_photo.jpg);
+    background-image: url(/assets/img/big/Mike_crop.JPG);
     padding: 6% 0 0 0;
   }
 
@@ -36,7 +36,7 @@
       /* Defining each section background and styles on portrait orientation
       * --------------------------------------- */
       #section0{
-        background-image: url(/assets/img/big/mike_photo.jpg);
+        background-image: url(/assets/img/big/Mike_crop.JPG);
         padding: 6% 0 0 0;
       }
 
